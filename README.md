@@ -1,5 +1,6 @@
 # Neha-project
 # Welcome
 <br>
-# This is my first Git Repository(by Neha Verma).
+# This is my first Git Repository
+# By Neha Verma.
 
